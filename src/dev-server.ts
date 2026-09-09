@@ -1,4 +1,3 @@
-import 'dotenv/config';
 import Fastify from 'fastify';
 import fs from 'fs/promises';
 import path from 'path';
